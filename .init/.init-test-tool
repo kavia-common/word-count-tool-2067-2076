@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/tmp/kavia/workspace/code-generation/word-count-tool-2067-2076/word_counter_frontend"
+}
